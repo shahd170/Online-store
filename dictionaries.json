@@ -1,0 +1,88 @@
+{
+  "en": {
+    "nav": {
+      "home": "Home",
+      "products": "Products",
+      "categories": "Categories",
+      "contact": "Contact Us",
+      "cart": "Cart"
+    },
+    "products": {
+      "collection_title": "Our Collection",
+      "collection_desc": "Explored our curated selection of premium goods. From high-end electronics to artisanal jewelry, find exactly what fits your lifestyle.",
+      "filter_title": "Filter by Category",
+      "all_products": "All Products",
+      "result": "Result",
+      "items": "Items",
+      "sort_by": "Sort By",
+      "newest": "Newest Arrivals",
+      "price_low": "Price: Low to High",
+      "price_high": "Price: High to Low",
+      "price_label": "Price",
+      "add_to_cart": "Add to Cart",
+      "buy_now": "Buy It Now",
+      "back_to_collection": "Back to Collection",
+      "you_might_like": "You might also like"
+    },
+    "promo": {
+      "free_shipping_title": "Free Shipping",
+      "free_shipping_desc": "On all orders over $200. Shop more, save more!",
+      "learn_more": "Learn More"
+    },
+    "details": {
+      "in_stock": "In Stock",
+      "dispatch_msg": "Ready for immediate dispatch",
+      "express_shipping": "Free Express Shipping",
+      "warranty": "2 Year Warranty"
+    },
+    "categories": {
+      "electronics": "Electronics",
+      "jewelery": "Jewelery",
+      "men's clothing": "Men's Clothing",
+      "women's clothing": "Women's Clothing"
+    }
+  },
+  "ar": {
+    "nav": {
+      "home": "الرئيسية",
+      "products": "المنتجات",
+      "categories": "التصنيفات",
+      "contact": "تواصل معنا",
+      "cart": "السلة"
+    },
+    "products": {
+      "collection_title": "مجموعتنا المختارة",
+      "collection_desc": "استكشف تشكيلتنا المنسقة من السلع الفاخرة. من الإلكترونيات الراقية إلى المجوهرات المصنوعة يدوياً، ابحث عما يناسب أسلوب حياتك تماماً.",
+      "filter_title": "تصفية حسب القسم",
+      "all_products": "كل المنتجات",
+      "result": "النتائج",
+      "items": "منتج",
+      "sort_by": "ترتيب حسب",
+      "newest": "الأحدث وصولاً",
+      "price_low": "السعر: من الأقل للأعلى",
+      "price_high": "السعر: من الأعلى للأقل",
+      "price_label": "السعر",
+      "add_to_cart": "أضف للسلة",
+      "buy_now": "شراء الآن",
+      "back_to_collection": "العودة للمجموعة",
+      "you_might_like": "قد يعجبك أيضاً"
+    },
+    "promo": {
+      "free_shipping_title": "شحن مجاني",
+      "free_shipping_desc": "على جميع الطلبات التي تزيد عن 200 دولار. تسوق أكثر، وفر أكثر!",
+      "learn_more": "لمعرفة المزيد"
+    },
+    "details": {
+      "in_stock": "متوفر في المخزن",
+      "dispatch_msg": "جاهز للشحن الفوري",
+      "express_shipping": "شحن سريع مجاني",
+      "warranty": "ضمان لمدة سنتين"
+    },
+    "categories": {
+      "electronics": "إلكترونيات",
+      "jewelery": "مجوهرات",
+      "men's clothing": "ملابس رجالية",
+      "women's clothing": "ملابس نسائية"
+    }
+  }
+}
